@@ -1,0 +1,29 @@
+.content {
+  position: relative;
+  top: 35vh;
+  margin: 0px auto 0;
+}
+
+.message {
+  font-size: 5.5vw;
+  font-weight: bold;
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+.number {
+  font-size: 8vw;
+  font-weight: bold;
+  margin: auto;
+  width: 69%;
+  padding-top: 0px;
+}
+
+.message p {
+  margin: 0px;
+}
+
+.number p {
+  margin: 0px;
+}
