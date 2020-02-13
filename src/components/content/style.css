@@ -4,14 +4,6 @@
   margin: 0px auto 0;
 }
 
-.message {
-  font-size: 5.5vw;
-  font-weight: bold;
-  margin: auto;
-  width: 100%;
-  padding: 10px;
-}
-
 .number {
   font-size: 8vw;
   font-weight: bold;
@@ -20,10 +12,35 @@
   padding-top: 0px;
 }
 
+.number p {
+  margin: 0px;
+}
+
+
+.message {
+  font-size: 5vw;
+  font-weight: bold;
+  margin: auto;
+  width: 100%;
+  padding-top: 10px;
+}
+
 .message p {
   margin: 0px;
 }
 
-.number p {
+.source {
+  font-size: 2vw;
+  font-weight: bold;
+  margin: auto;
+  width: 100%;
+}
+
+.source p {
   margin: 0px;
+}
+
+.source a {
+  text-decoration : none;
+  color: #b29500;
 }

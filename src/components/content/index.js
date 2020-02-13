@@ -5,11 +5,14 @@ import "./style.css"
 export const Content = (props) => {
   return (
     <div className="content">
-      <div className="message">
-        <p>barrels of oil left in the world</p>
-      </div>
       <div className="number">
         <p align="left">{formatNumbers(props.oilLeft)}</p>
+      </div>
+      <div className="message">
+        <p>barrels of oil left.</p>
+      </div>
+      <div className="source">
+        <a href="https://github.com/cujarrett/oil-countdown/files/4196520/source.pdf">source</a>
       </div>
     </div>
   )
