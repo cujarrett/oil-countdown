@@ -1,0 +1,45 @@
+.content {
+  position: relative;
+  top: 35vh;
+  margin: 0px auto 0;
+}
+
+.number {
+  font-size: 8vw;
+  font-weight: bold;
+  margin: auto;
+  width: 69%;
+  padding-top: 0px;
+}
+
+.number p {
+  margin: 0px;
+}
+
+.message {
+  font-size: 5vw;
+  font-weight: bold;
+  margin: auto;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.message p {
+  margin: 0px;
+}
+
+.source {
+  font-size: 2vw;
+  font-weight: bold;
+  margin: auto;
+  width: 100%;
+}
+
+.source p {
+  margin: 0px;
+}
+
+.source a {
+  text-decoration : none;
+  color: #b29500;
+}
