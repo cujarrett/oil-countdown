@@ -12,7 +12,7 @@ export const Content = (props) => {
         <p>barrels of oil left.</p>
       </div>
       <div className="source">
-        <a href="https://github.com/cujarrett/oil-countdown/files/4196520/source.pdf">source</a>
+        <a href="https://github.com/cujarrett/oil-countdown/blob/master/media/source.pdf">source</a>
       </div>
     </div>
   )
