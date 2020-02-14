@@ -6,7 +6,12 @@
 </p>
 
 ## What it is?
+![demo](./media/demo.gif)
+
 Oil Countdown is a simple React JS web app that counts down the oil left on Earth using data from [BP](https://www.bp.com/) and [U.S. Energy Information Administration’s (EIA)](https://www.eia.gov/).
+
+## How's it work?
+![design](./media/architecture.jpg)
 
 ## Want to Contribute?
 Rad, thanks! Check out the [contributing guide](./CONTRIBUTING.md).
