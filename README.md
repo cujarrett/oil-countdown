@@ -1,12 +1,12 @@
-![logo](./media/logo.jpg)
-<h3 align="center"><b><a href="https://oilcountdown.info">https://oilcountdown.info</a></h3>
+![demo](./media/demo.gif)
+
+<h2 align="center"><b><a href="https://oilcountdown.info">https://oilcountdown.info</a></h2>
 
 <p align="center">
   <a href="https://circleci.com/gh/cujarrett/oil-countdown/tree/master"><img alt="Circle CI" src="https://circleci.com/gh/cujarrett/oil-countdown/tree/master.svg?style=svg"></a>
 </p>
 
 ## What it is?
-![demo](./media/demo.gif)
 
 Oil Countdown is a simple React JS web app that counts down the oil left on Earth using data from [BP](https://www.bp.com/) and [U.S. Energy Information Administration’s (EIA)](https://www.eia.gov/).
 
