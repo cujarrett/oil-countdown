@@ -27,19 +27,3 @@
 .message p {
   margin: 0px;
 }
-
-.source {
-  font-size: 2vw;
-  font-weight: bold;
-  margin: auto;
-  width: 100%;
-}
-
-.source p {
-  margin: 0px;
-}
-
-.source a {
-  text-decoration : none;
-  color: #b29500;
-}

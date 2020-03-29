@@ -1,0 +1,14 @@
+.source {
+  font-size: 2vw;
+  font-weight: bold;
+}
+
+.source p {
+  margin: 0px;
+  cursor: pointer;
+}
+
+.source a {
+  text-decoration : none;
+  color: #b29500;
+}
