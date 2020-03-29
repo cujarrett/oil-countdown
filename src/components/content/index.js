@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import "./style.css"
+import { AdditionalInfo } from "../popup/index.js"
 
 export const Content = (props) => {
   return (
@@ -11,9 +12,7 @@ export const Content = (props) => {
       <div className="message">
         <p>barrels of oil left.</p>
       </div>
-      <div className="source">
-        <a href="https://github.com/cujarrett/oil-countdown/blob/master/media/source.pdf">source</a>
-      </div>
+      <AdditionalInfo timeLeft={props.timeLeft}/>
     </div>
   )
 }
@@ -23,5 +22,6 @@ const formatNumbers = (number) => {
 }
 
 Content.propTypes = {
-  oilLeft: PropTypes.number
+  oilLeft: PropTypes.number,
+  timeLeft: PropTypes.string
 }
