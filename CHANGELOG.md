@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [v0.2.0] - 2020-03-28
+## [v0.2.0] - 2020-03-29
 ### Added
 - :sparkle: Adds more info popup
 - :sparkle: Adds app version number to footer
