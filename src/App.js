@@ -30,8 +30,16 @@ const App = () => {
       const hoursLeft = minsLeft / 60
       const daysLeft = hoursLeft / 24
       const yearsLeft = daysLeft / 365.25
-      setTimeLeft(`${Math.floor(yearsLeft)} years ${Math.floor(daysLeft % 365.25)} days ${Math.floor(hoursLeft % 24)} hours ${Math.floor(minsLeft % 60)} mins ${Math.floor(secsLeft % 60)} seconds`)
 
+      const yearsLeftFormatted = Math.floor(yearsLeft)
+      const daysLeftFormatted = Math.floor(daysLeft % 365.25)
+      const hoursLeftFormatted = Math.floor(hoursLeft % 24)
+      const minsLeftFormatted = Math.floor(minsLeft % 60)
+      const secsLeftFormatted = Math.floor(secsLeft % 60)
+      // Long line ¯\_(ツ)_/¯
+      // eslint-disable-next-line max-len
+      const timeLeftFormatted = `${yearsLeftFormatted} years ${daysLeftFormatted} days ${hoursLeftFormatted} hours ${minsLeftFormatted} mins ${secsLeftFormatted} seconds`
+      setTimeLeft(timeLeftFormatted)
     }, 1000)
 
     return () => clearInterval(intervalId)
