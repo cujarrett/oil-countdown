@@ -1,18 +1,15 @@
 .footer h4{
   color: #b29500;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  margin-bottom: .5em;
+  position:absolute;
+  left:0px;
+  bottom:15px;
+  right:0px;
+  margin-bottom:0px;
 }
 
 .version {
   color: #b29500;
-  position: absolute;
-  left: 1;
-  bottom: 0;
-  right: 0;
-  margin-right: .5em;
-  margin-bottom: .5em;
+  position:absolute;
+  bottom:15px;
+  right:15px;
 }
