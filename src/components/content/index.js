@@ -7,10 +7,10 @@ export const Content = (props) => {
   return (
     <div className="content">
       <div className="number">
-        <p align="left">{formatNumbers(props.oilLeft)}</p>
+        <p align="left" data-testid="number">{formatNumbers(props.oilLeft)}</p>
       </div>
       <div className="message">
-        <p>barrels of oil left.</p>
+        <p data-testid="message">barrels of oil left.</p>
       </div>
       <AdditionalInfo timeLeft={props.timeLeft}/>
     </div>
