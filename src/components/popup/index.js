@@ -55,12 +55,12 @@ export const AdditionalInfo = (props) => {
 
   return (
     <div>
-      <Button color="primary" onClick={handleClickOpen}>
+      <Button color="primary" data-testid="more-info-button" onClick={handleClickOpen}>
         more info
       </Button>
       <Dialog onClose={handleClose} aria-labelledby="customized-dialog-title" open={open}>
         <DialogContent dividers>
-          <DialogTitle id="customized-dialog-title" onClose={handleClose}>
+          <DialogTitle id="customized-dialog-title" data-testid="more-info-content" onClose={handleClose}>
             SOURCE
           </DialogTitle>
           <Typography gutterBottom>
@@ -68,7 +68,7 @@ export const AdditionalInfo = (props) => {
             ended up sourcing my data from the <a href="https://github.com/cujarrett/oil-countdown/blob/master/media/source.pdf">
               2019 BP Statistical Review of World Energy</a>.
           </Typography>
-          <DialogTitle id="customized-dialog-title" onClose={handleClose}>
+          <DialogTitle id="customized-dialog-title" data-testid="more-info-close-button" onClose={handleClose}>
             HOW LONG WILL THE OIL LAST?
           </DialogTitle>
           <Typography gutterBottom>
