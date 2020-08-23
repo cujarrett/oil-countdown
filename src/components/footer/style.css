@@ -7,9 +7,11 @@
   margin-bottom:0px;
 }
 
-.version {
+.version a {
   color: #b29500;
   position:absolute;
   bottom:15px;
   right:15px;
+  margin-bottom:0px;
+  text-decoration: none;
 }

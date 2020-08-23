@@ -10,7 +10,7 @@ export const Footer = () => {
         Made with <i className="fa fa-heart"/>, JavaScript, and <i className="fa fa-github"/>
       </h4>
       <div className="version">
-        {version}
+        <a href="https://github.com/cujarrett/oil-countdown/blob/master/CHANGELOG.md">{version}</a>
       </div>
     </div>
   )
