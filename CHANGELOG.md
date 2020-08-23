@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [v0.5.0] - 2020-08-22
+### Changed
+- :sparkle: App version number now links back to changelog
+
 ## [v0.4.3] - 2020-08-22
 ### Changed
 - :arrow_up: Updated dependencies
@@ -33,6 +37,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ### Added
 - :tada: initial app
 
+[v0.5.0]: https://github.com/cujarrett/oil-countdown/compare/v0.4.3...v0.5.0
 [v0.4.3]: https://github.com/cujarrett/oil-countdown/compare/v0.4.2...v0.4.3
 [v0.4.2]: https://github.com/cujarrett/oil-countdown/compare/v0.4.1...v0.4.2
 [v0.4.1]: https://github.com/cujarrett/oil-countdown/compare/v0.4.0...v0.4.1
