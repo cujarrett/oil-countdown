@@ -1,6 +1,6 @@
 {
   "name": "oil-countdown",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
@@ -23,8 +23,8 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "~5.11.4",
-    "@testing-library/react": "~10.4.9",
-    "@testing-library/user-event": "~12.1.2",
+    "@testing-library/react": "~11.0.4",
+    "@testing-library/user-event": "~12.1.6",
     "jest-environment-jsdom-sixteen": "~1.0.3"
   },
   "browserslist": {
