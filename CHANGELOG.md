@@ -1,3 +1,14 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+# [0.6.0](https://github.com/cujarrett/oil-countdown/compare/v0.5.3...v0.6.0) (2021-01-18)
+
+
+### Features
+
+* **ci/cd:** adds semantic-release ([6cdb258](https://github.com/cujarrett/oil-countdown/commit/6cdb258a10a2d8d94fbbecce8cbcc8e497c7294d))
+
 ## [v0.5.3] - 2020-12-18
 ### Changed
 - :arrow_up: Updated dependencies
