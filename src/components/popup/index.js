@@ -65,7 +65,7 @@ export const AdditionalInfo = (props) => {
           </DialogTitle>
           <Typography gutterBottom>
             As you can imagine, it&apos;s not an exact science to determine how much oil is left. After researching the topic I
-            ended up sourcing my data from the <a href="https://github.com/cujarrett/oil-countdown/blob/master/media/source.pdf">
+            ended up sourcing my data from the <a href="https://github.com/cujarrett/oil-countdown/blob/main/media/source.pdf">
               2019 BP Statistical Review of World Energy</a>.
           </Typography>
           <DialogTitle id="customized-dialog-title" data-testid="more-info-close-button" onClose={handleClose}>
