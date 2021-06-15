@@ -1,17 +1,17 @@
 import React from "react"
 import PropTypes from "prop-types"
 import "./style.css"
-import { version } from "../../../package.json"
 
 export const Footer = () => {
   return (
     <div className="footer">
       <h4>
-        Made with <i className="fa fa-heart"/>, JavaScript, and <i className="fa fa-github"/>
+        Made by{" "}
+        <a href="https://cujarrett.dev">
+          @cujarrett
+        </a>{" "}
+        with <i className="fa fa-heart" /> and JavaScript
       </h4>
-      <div className="version">
-        <a href="https://github.com/cujarrett/oil-countdown/blob/main/CHANGELOG.md">{version}</a>
-      </div>
     </div>
   )
 }
