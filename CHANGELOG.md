@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.12.4](https://github.com/cujarrett/oil-countdown/compare/v0.12.3...v0.12.4) (2021-08-02)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @testing-library/user-event from 13.2.0 to 13.2.1 ([#74](https://github.com/cujarrett/oil-countdown/issues/74)) ([bd86142](https://github.com/cujarrett/oil-countdown/commit/bd861423b94eeff139a6d7a974960957729791fc))
+
 ## [0.12.3](https://github.com/cujarrett/oil-countdown/compare/v0.12.2...v0.12.3) (2021-08-02)
 
 
