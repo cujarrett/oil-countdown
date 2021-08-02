@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.12.3](https://github.com/cujarrett/oil-countdown/compare/v0.12.2...v0.12.3) (2021-08-02)
+
+
+### Bug Fixes
+
+* **deps:** bump @material-ui/core from 4.12.2 to 4.12.3 ([#73](https://github.com/cujarrett/oil-countdown/issues/73)) ([ce9a6c2](https://github.com/cujarrett/oil-countdown/commit/ce9a6c2f708e9af2586d23e09827977135729e8b))
+
 ## [0.12.2](https://github.com/cujarrett/oil-countdown/compare/v0.12.1...v0.12.2) (2021-07-22)
 
 
