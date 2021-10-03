@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [0.13.0](https://github.com/cujarrett/oil-countdown/compare/v0.12.8...v0.13.0) (2021-10-03)
+
+
+### Features
+
+* migrates from Circle CI to GitHub Actions ([#85](https://github.com/cujarrett/oil-countdown/issues/85)) ([938904a](https://github.com/cujarrett/oil-countdown/commit/938904a58e1b0faa4aa08b941e3618d9c9a9d828))
+
 ## [0.12.8](https://github.com/cujarrett/oil-countdown/compare/v0.12.7...v0.12.8) (2021-09-13)
 
 
