@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [0.14.0](https://github.com/cujarrett/oil-countdown/compare/v0.13.2...v0.14.0) (2021-10-09)
+
+
+### Features
+
+* adds default terraform tags ([#87](https://github.com/cujarrett/oil-countdown/issues/87)) ([54fd852](https://github.com/cujarrett/oil-countdown/commit/54fd85265dc5cb0d5858f49f95aa6faade8c62a2))
+
 ## [0.13.2](https://github.com/cujarrett/oil-countdown/compare/v0.13.1...v0.13.2) (2021-10-05)
 
 
