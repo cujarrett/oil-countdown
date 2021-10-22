@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.14.7](https://github.com/cujarrett/oil-countdown/compare/v0.14.6...v0.14.7) (2021-10-22)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump husky from 7.0.3 to 7.0.4 ([#95](https://github.com/cujarrett/oil-countdown/issues/95)) ([bc16cda](https://github.com/cujarrett/oil-countdown/commit/bc16cdabed6b38e45fee9b309a32256510a5d1d1))
+
 ## [0.14.6](https://github.com/cujarrett/oil-countdown/compare/v0.14.5...v0.14.6) (2021-10-21)
 
 
