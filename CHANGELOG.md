@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.14.14](https://github.com/cujarrett/oil-countdown/compare/v0.14.13...v0.14.14) (2021-11-04)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/github from 8.0.1 to 8.0.2 ([#102](https://github.com/cujarrett/oil-countdown/issues/102)) ([f7bc8fb](https://github.com/cujarrett/oil-countdown/commit/f7bc8fb0bf4fb09e5658e319f49e96a1f14a76df))
+
 ## [0.14.13](https://github.com/cujarrett/oil-countdown/compare/v0.14.12...v0.14.13) (2021-11-03)
 
 
