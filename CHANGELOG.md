@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.14.18](https://github.com/cujarrett/oil-countdown/compare/v0.14.17...v0.14.18) (2021-11-26)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @testing-library/jest-dom from 5.15.0 to 5.15.1 ([#106](https://github.com/cujarrett/oil-countdown/issues/106)) ([5a37ffd](https://github.com/cujarrett/oil-countdown/commit/5a37ffd5274e678c9991a357095f40dbf2773145))
+
 ## [0.14.17](https://github.com/cujarrett/oil-countdown/compare/v0.14.16...v0.14.17) (2021-11-18)
 
 
