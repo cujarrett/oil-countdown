@@ -53,7 +53,6 @@ const App = () => {
     setOilLeft(oilLeft - (msElapsedSinceReport * oilUsedPerMs))
     setInitialLoad(false)
     // This function only runs on initial load and afterwards it has no need to calculate oil left
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [initialLoad])
 
   return (
