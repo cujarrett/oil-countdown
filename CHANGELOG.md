@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.15.7](https://github.com/cujarrett/oil-countdown/compare/v0.15.6...v0.15.7) (2021-12-31)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @babel/preset-react from 7.16.5 to 7.16.7 ([#117](https://github.com/cujarrett/oil-countdown/issues/117)) ([4664a4c](https://github.com/cujarrett/oil-countdown/commit/4664a4caa774f15642ca6edf496ceec498a3616f))
+
 ## [0.15.6](https://github.com/cujarrett/oil-countdown/compare/v0.15.5...v0.15.6) (2021-12-29)
 
 
