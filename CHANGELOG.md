@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.15.8](https://github.com/cujarrett/oil-countdown/compare/v0.15.7...v0.15.8) (2021-12-31)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @babel/core from 7.16.5 to 7.16.7 ([#118](https://github.com/cujarrett/oil-countdown/issues/118)) ([b9164d7](https://github.com/cujarrett/oil-countdown/commit/b9164d70e3f4eeafba8db1a3e9f7d0acd8b78352))
+
 ## [0.15.7](https://github.com/cujarrett/oil-countdown/compare/v0.15.6...v0.15.7) (2021-12-31)
 
 
