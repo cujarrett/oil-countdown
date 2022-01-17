@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.15.12](https://github.com/cujarrett/oil-countdown/compare/v0.15.11...v0.15.12) (2022-01-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 8.6.0 to 8.7.0 ([#122](https://github.com/cujarrett/oil-countdown/issues/122)) ([847fec0](https://github.com/cujarrett/oil-countdown/commit/847fec081ac5750f00ebf2dfb463b6487ff1e303))
+
 ## [0.15.11](https://github.com/cujarrett/oil-countdown/compare/v0.15.10...v0.15.11) (2022-01-10)
 
 
