@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.16.1](https://github.com/cujarrett/oil-countdown/compare/v0.16.0...v0.16.1) (2022-01-21)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @commitlint/cli from 16.0.3 to 16.1.0 ([#126](https://github.com/cujarrett/oil-countdown/issues/126)) ([53c1452](https://github.com/cujarrett/oil-countdown/commit/53c1452be9a90f413199dc7687c433aa18782bf9))
+* **deps:** bump web-vitals from 2.1.3 to 2.1.4 ([#128](https://github.com/cujarrett/oil-countdown/issues/128)) ([92d4c58](https://github.com/cujarrett/oil-countdown/commit/92d4c58eb826e01edd0522772def7eed1d5dfe8d))
+
 # [0.16.0](https://github.com/cujarrett/oil-countdown/compare/v0.15.15...v0.16.0) (2022-01-21)
 
 
