@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [0.16.0](https://github.com/cujarrett/oil-countdown/compare/v0.15.15...v0.16.0) (2022-01-21)
+
+
+### Features
+
+* adds dependabot terraform support ([#127](https://github.com/cujarrett/oil-countdown/issues/127)) ([f5aae11](https://github.com/cujarrett/oil-countdown/commit/f5aae11ddf236d90f22da8de2d329ca8ec4090f2))
+
 ## [0.15.15](https://github.com/cujarrett/oil-countdown/compare/v0.15.14...v0.15.15) (2022-01-20)
 
 
