@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.17.3](https://github.com/cujarrett/oil-countdown/compare/v0.17.2...v0.17.3) (2022-02-01)
+
+
+### Bug Fixes
+
+* **deps:** bump semver-regex from 3.1.2 to 3.1.3 ([#131](https://github.com/cujarrett/oil-countdown/issues/131)) ([6a18178](https://github.com/cujarrett/oil-countdown/commit/6a18178a833ab799e3cc113af3b2fafcf047f2fe))
+
 ## [0.17.2](https://github.com/cujarrett/oil-countdown/compare/v0.17.1...v0.17.2) (2022-02-01)
 
 
