@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to this project will be documented in this file. This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.17.7](https://github.com/cujarrett/oil-countdown/compare/v0.17.6...v0.17.7) (2022-03-04)
+
+
+### Bug Fixes
+
+* **deps:** bump nanoid from 3.1.30 to 3.3.1 ([#141](https://github.com/cujarrett/oil-countdown/issues/141)) ([3fe1b22](https://github.com/cujarrett/oil-countdown/commit/3fe1b2295a939bd8fb0fb2a87a7271c32f61a872))
+
 ## [0.17.6](https://github.com/cujarrett/oil-countdown/compare/v0.17.5...v0.17.6) (2022-03-04)
 
 
