@@ -7,7 +7,7 @@ export const Content = (props) => {
   return (
     <div className="content">
       <div className="number">
-        <p align="left" data-testid="number">{formatNumbers(props.oilLeft)}</p>
+        <p data-testid="number">{formatNumbers(props.oilLeft)}</p>
       </div>
       <div className="message">
         <p data-testid="message">barrels of oil left.</p>
